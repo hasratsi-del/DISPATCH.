@@ -157,4 +157,4 @@ git push -u origin main
 
 **Hasrat Singh Chauhan**  
 Computing Science & Mathematics, University of Alberta  
-[at-quorum.netlify.app](https://at-quorum.netlify.app) · [github.com/hasratsi-del](https://github.com/hasratsi-del)
+[hasratsii.netlify.app](https://hasratsii.netlify.app) · [github.com/hasratsi-del](https://github.com/hasratsi-del)
