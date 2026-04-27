@@ -3,7 +3,7 @@
 
 > *"The world is talking. This is what it's saying."*
 
-**Live demo:** [hasrat-dev.netlify.app](https://hasrat-dev.netlify.app)  
+**Live demo:** [hasrat-dev.netlify.app](https://hasratsii.netlify.app)  
 **GitHub:** [github.com/hasratsi-del/DISPATCH.](https://github.com/hasratsi-del/DISPATCH.)
 
 DISPATCH fetches live global news, scores sentiment using NLP, aggregates signals by country, and renders them on an interactive world map — with a rotating Three.js globe, three analysis modes, an AI situation report, and country search.
